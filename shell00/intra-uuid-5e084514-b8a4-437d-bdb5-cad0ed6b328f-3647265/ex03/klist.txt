@@ -1,0 +1,5 @@
+Credentials cache: API:91448
+        Principal: kaltevog@CODAM.NL
+
+  Issued                Expires               Principal
+Jul 10 17:36:54 2021  Jul 17 17:36:47 2021  krbtgt/CODAM.NL@CODAM.NL

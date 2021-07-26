@@ -1,0 +1,4 @@
+API:91448
+Issued                Expires               Principal
+Jul  5 18:07:07 2021  Jul 12 18:06:58 2021  krbtgt/CODAM.NL@CODAM.NL
+Principal: kaltevog@CODAM.NL
